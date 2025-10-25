@@ -1,0 +1,14 @@
+# Getting started
+- href: getting-started.md
+- topics:
+    - href: installation.md
+    - href: quick-start.md
+
+# Writing documentation
+- href: writing-docs.md
+- topics:
+    - href: markdown-guide.md
+    - href: formatting.md
+
+# Configuration
+- href: configuration.md
