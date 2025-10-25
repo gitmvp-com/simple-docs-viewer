@@ -1,0 +1,19 @@
+{
+  "name": "simple-docs-viewer",
+  "version": "1.0.0",
+  "description": "MVP documentation site with Markdown to HTML conversion",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node server.js",
+    "start": "node server.js",
+    "build": "node build.js"
+  },
+  "keywords": ["documentation", "markdown", "viewer"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "marked": "^9.1.6",
+    "js-yaml": "^4.1.0"
+  }
+}
